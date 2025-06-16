@@ -1,4 +1,6 @@
-# Haiku Manager
+# Haiku Storage
+
+I can't remember why I started to work on it, but now *it exists*.
 
 ## Installation
 
